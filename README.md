@@ -24,8 +24,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://github.com/allencwwong/tip-app/blob/master/tip%20calc%20demo.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
-
 ![Walkthrough](https://github.com/allencwwong/tip-app/blob/master/tip%20calc%20demo.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
