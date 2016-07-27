@@ -1,6 +1,6 @@
 # Pre-work - Codepath Tip Calculator
 
-**Name of your app** is a tip calculator application for iOS.
+cp-tippy is a tip calculator application for iOS.
 
 Submitted by: Allen Wong
 
